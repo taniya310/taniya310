@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Taniya Prasad 👋
 
-<!--
-**taniya310/taniya310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech CSE student and I like coding and building projects.
+Currently I’m learning Python, Java, DSA, Web Development.
 
-Here are some ideas to get you started:
+Skills:
+- Python
+- Java (OOPs)
+- HTML, CSS, JavaScript
+- DBMS, SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Weather App
+- Calculator
+- Movie Search App
+- Python Programs
+
+GitHub: https://github.com/taniya310
